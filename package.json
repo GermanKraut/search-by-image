@@ -62,7 +62,7 @@
     "@material/theme": "^4.0.0",
     "@material/typography": "^4.0.0",
     "buffer": "^6.0.3",
-    "core-js": "^3.16.0",
+    "core-js": "^3.25.1",
     "cropperjs": "^1.5.12",
     "ext-components": "github:dessant/ext-components#v0.4.1",
     "ext-contribute": "github:dessant/ext-contribute#v0.3.5",
