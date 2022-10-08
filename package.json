@@ -71,7 +71,7 @@
     "imagesloaded": "^4.1.4",
     "lodash-es": "^4.17.21",
     "masonry-layout": "^4.2.2",
-    "p-queue": "^7.1.0",
+    "p-queue": "^7.3.0",
     "spinkit": "^1.2.5",
     "uuid": "^8.3.2",
     "vue": "^2.6.14",
