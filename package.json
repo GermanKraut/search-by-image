@@ -51,7 +51,7 @@
     "Samsung >= 13"
   ],
   "dependencies": {
-    "@fontsource/roboto": "^4.5.0",
+    "@fontsource/roboto": "^4.5.8",
     "@material/grid-list": "^4.0.0",
     "@material/icon-button": "^4.0.0",
     "@material/list": "^4.0.0",
