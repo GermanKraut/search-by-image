@@ -78,7 +78,7 @@
     "vue-resize": "^1.0.1",
     "vuedraggable": "^2.24.3",
     "webextension-polyfill": "^0.8.0",
-    "wesa": "^0.1.2"
+    "wesa": "^0.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.14.8",
